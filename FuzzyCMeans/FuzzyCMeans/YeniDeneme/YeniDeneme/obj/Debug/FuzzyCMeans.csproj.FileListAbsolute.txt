@@ -1,0 +1,15 @@
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\bin\Debug\YeniDeneme.exe.config
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\bin\Debug\YeniDeneme.exe
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\bin\Debug\YeniDeneme.pdb
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\bin\Debug\ExcelDataReader.dll
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\bin\Debug\ExcelDataReader.xml
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\obj\Debug\FuzzyCMeans.csprojAssemblyReference.cache
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\obj\Debug\FuzzyCMeans.Form1.resources
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\obj\Debug\YeniDeneme.Properties.Resources.resources
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\obj\Debug\FuzzyCMeans.csproj.GenerateResource.cache
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\obj\Debug\FuzzyCMeans.csproj.CoreCompileInputs.cache
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\obj\Debug\FuzzyCMeans.csproj.CopyComplete
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\obj\Debug\YeniDeneme.exe
+C:\Users\Tugay\Desktop\FuzzyCMeans\FuzzyCMeans\YeniDeneme\YeniDeneme\obj\Debug\YeniDeneme.pdb
